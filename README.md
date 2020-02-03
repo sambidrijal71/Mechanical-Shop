@@ -5,7 +5,7 @@ Goal : Kelvin Grove Tires and Mechanical is a Mechanical garage that has a store
 
 Wordpress is used to build the structure of the website. The main task of the project was to develop a theme from scratch.
 We used PHP and CSS to build a theme. Once the theme was done we used it in WordPress and worked on it to add the content. To make the website attractive we used the Eliminator plugin and WPFroms.
-My role was to add the functions in function.php page and to create the header.php page and later to make Services, Book Appointment and Contact Us page.
+
 
 Version Control Used : GitHub 
 Project management Tool Used : 
