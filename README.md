@@ -28,3 +28,9 @@ Step 1 : Downloaded all the files from GitHub https://github.com/sambidrijal71/M
 Step 2 : Use any code editor 
 Step 3: Make changes as per your need.
 Step4 : Save
+
+
+Roles:
+Sambid: Creating pages, content design, theme design,
+Jeevan: Creating pages, content position, style
+Jason: Theme design, content styling
